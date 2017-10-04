@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.CircleBuilder">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAgAAICAAAA=</HashCode>
+      <FileName>CircleBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.Color">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.Manager">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.Program">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.Radius">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Radius.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.RectangleBuilder">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAgAAICAAAA=</HashCode>
+      <FileName>RectangleBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.Shape">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAACAAQAIAEAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.ShapeBuilder">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAQAAAAAAAAAABAAgAAICABAA=</HashCode>
+      <FileName>ShapeBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.Side">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Side.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generating_pattterns_lab1_Kazmirchuk.TriangleBuilder">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAgAAICAAAA=</HashCode>
+      <FileName>TriangleBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
